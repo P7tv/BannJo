@@ -20,7 +20,7 @@ const StudentWelcome = memo(function StudentWelcome({
     <div className={`flex flex-col items-center text-center space-y-3 animate-slide-up animate-delay-300 ${className}`}>
       {/* Student Name */}
       <div className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-white tracking-wide drop-shadow-[0_4px_10px_rgba(0,0,0,1)]">
-        ยินดีต้อนรับ <span className="text-amber-300 drop-shadow-[0_2px_6px_rgba(0,0,0,1)]">{firstName} ({nickname})</span>
+        ยินดีต้อนรับน้อง <span className="text-amber-300 drop-shadow-[0_2px_6px_rgba(0,0,0,1)]">{nickname} ({firstName})</span>
       </div>
 
 

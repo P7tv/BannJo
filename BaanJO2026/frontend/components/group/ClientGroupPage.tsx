@@ -52,34 +52,44 @@ export default function ClientGroupPage() {
         isExiting ? "animate-page-exit" : "animate-page-enter"
       }`}
     >
-      {/* Full Group Reveal Poster as Main Background */}
-      <Image
-        src={imagePath}
-        alt={`${hormone} ${group}`}
-        fill
-        style={{ objectFit: "contain", objectPosition: "top" }}
-        className="transition-smooth animate-severe-zoom-in z-0 pointer-events-none"
-        priority
-      />
+      {/* Full Group Reveal Poster as Main Background for First View */}
+      <div className="absolute top-0 left-0 w-full h-[100dvh] z-0 pointer-events-none">
+        <Image
+          src={imagePath}
+          alt={`${hormone} ${group}`}
+          fill
+          style={{ objectFit: "contain", objectPosition: "top" }}
+          className="transition-smooth animate-severe-zoom-in"
+          priority
+        />
+      </div>
 
-      {/* Content Container overlaid seamlessly across Mobile, iPad/Tablet, and Desktop */}
-      <div className="relative z-10 w-full max-w-md sm:max-w-lg md:max-w-xl flex flex-col items-center px-4 pt-[45vh] sm:pt-[48vh] md:pt-[52vh] lg:pt-[56vh] pb-12 space-y-4">
-        {/* Student Welcome */}
-        <div className="animate-slide-up animate-delay-300 text-center w-full">
-          <StudentWelcome
-            firstName={firstName}
-            nickname={nickname}
-            hormone={hormone}
-            group={group}
-          />
+      {/* SECTION 1: Centered Welcome Greeting over Poster (First View 100vh) */}
+      <div className="relative z-10 w-full min-h-screen h-[100dvh] flex flex-col items-center justify-between px-4 pt-16 pb-8">
+        <div className="flex-1 flex flex-col items-center justify-center text-center w-full max-w-md sm:max-w-lg">
+          <div className="animate-slide-up animate-delay-300">
+            <StudentWelcome
+              firstName={firstName}
+              nickname={nickname}
+              hormone={hormone}
+              group={group}
+            />
+          </div>
         </div>
 
-        {/* LINE OpenChat QR Code */}
+        {/* Scroll Down Indicator at bottom of first view */}
+        <div className="animate-bounce text-amber-300 text-xs sm:text-sm font-bold flex flex-col items-center space-y-1 drop-shadow-[0_2px_6px_rgba(0,0,0,1)] pb-4">
+          <span>เลื่อนลงเพื่อสแกน QR Code</span>
+          <span className="text-xl">👇</span>
+        </div>
+      </div>
+
+      {/* SECTION 2: QR Code & Navigation Button placed strictly below poster view */}
+      <div className="relative z-10 w-full flex flex-col items-center px-4 py-16 space-y-8 bg-black">
         <div className="animate-slide-up animate-delay-400 w-full max-w-xs sm:max-w-sm">
           <HouseOpenChatQR group={group} />
         </div>
 
-        {/* Back to Home Button */}
         <div className="animate-slide-up animate-delay-500 w-full max-w-xs pt-2">
           <NavigationButton 
             onClick={handleBackToHome} 

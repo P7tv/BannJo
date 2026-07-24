@@ -70,6 +70,7 @@ export default function ClientGroupPage() {
             firstName={firstName}
             nickname={nickname}
             hormone={hormone}
+            group={group}
           />
         </div>
 

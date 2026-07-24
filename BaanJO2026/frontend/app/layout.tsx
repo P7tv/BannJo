@@ -48,7 +48,7 @@ export default function RootLayout({
     <html lang="th" suppressHydrationWarning>
       <head>
         <link rel="preload" href="/fonts/can_Rukdeaw01.ttf" as="font" type="font/ttf" crossOrigin="" />
-        <link rel="preload" href="/images/2026/separated/Background.png" as="image" />
+        <link rel="preload" href="/images/separated/Background.webp" as="image" />
       </head>
       <body className="min-h-screen flex relative w-full bg-black" suppressHydrationWarning>
         <ClientLayout>

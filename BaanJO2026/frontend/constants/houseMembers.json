@@ -1,0 +1,2497 @@
+{
+  "CIA": [
+    {
+      "nickname": "มิ้นท์",
+      "faculty": "คณะนิเทศศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "แพร",
+      "faculty": "คณะศิลปกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ครีม",
+      "faculty": "คณะสถาปัตยกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เกรซ",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ฟาร์ม",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "เฟียตต้า",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "ลีโอ",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "ภูมิ",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "หมอนอิง",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "ไอวี่",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "น้ำฟ้า",
+      "faculty": "คณะเศรษฐศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "โบว์",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "เอิทธ์",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "โอปอ",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "เกรซ",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เมจิ",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "อ้อม",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "โปเต้",
+      "faculty": "คณะเศรษฐศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "อองรี",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "เซอรีน่า",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "ปริม",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ออโต้",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "น้ำมนต์",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ไข่มุก",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "คิว",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "อิงฟ้า",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปุณ",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "นานา",
+      "faculty": "คณะสหเวชศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "นนท์",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปาล์ม",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "แพม",
+      "faculty": "คณะเศรษฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ครีม",
+      "faculty": "คณะศิลปกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "แพร",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "น้ำหวาน",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "พู่กัน",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปาล์ม",
+      "faculty": "คณะศิลปกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "มายด์",
+      "faculty": "คณะสัตวแพทยศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เดย์",
+      "faculty": "คณะสัตวแพทยศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "วีด้า",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "แพม",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ไอเดีย",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เบสท์",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "บี",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "แอลลี่",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "นนท์",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปอนด์",
+      "faculty": "คณะสหเวชศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "มาร์ตี้",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "อั่งเปา",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ชิชา",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ลูกเกด",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เจส",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "พีท",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ฟาโร",
+      "faculty": "คณะเศรษฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ชิ",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "Khunluang",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปริม",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "แก้ม",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ณีช",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ข้าวปุ้น",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ริว",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เพลง",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "อันอัน",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "อิน",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "มินนี่",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปั๊บ",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "พู่กัน",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "บอส",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "พีท",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "น้ำมนต์",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ภูมิ",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "คิว",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ออม",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ตะวัน",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ตะวัน",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "อิน",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปาย",
+      "faculty": "คณะจิตวิทยา",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "โดนัท",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ริว",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "บอส",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "พริ้ม",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "มะขาม",
+      "faculty": "คณะนิเทศศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "พีพี",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "บัว",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ทอง",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "โบนัส",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "เอม",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "Chacha",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ปัน",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "โดนัท",
+      "faculty": "คณะเศรษฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "พริม",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "Zen",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "โจโจ้",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "อินเตอร์",
+      "faculty": "คณะเศรษฐศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ต้นกล้า",
+      "faculty": "คณะสหเวชศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ฮาน่า",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ไนท์",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "หมิว",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ออม",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "พิม",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปิ่น",
+      "faculty": "คณะนิเทศศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ริว",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "น้ำหวาน",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ต้นน้ำ",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ภีม",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "มิ้นท์",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ต้นกล้า",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ต้นข้าว",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปั้น",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ตูน",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "น้ำ",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "อันอัน",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "นาย",
+      "faculty": "คณะแพทยศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เกรซ",
+      "faculty": "คณะสหเวชศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ภูมิ",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เกรซ",
+      "faculty": "คณะเศรษฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เคท",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "ทีม",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "เชงกวง",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "เจิ้น",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "เดียร์",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "น้ำอิง",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "โป๊ะโกะ",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "ม่อน",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "ไทม์",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "ฟ้าใส",
+      "faculty": "คณะเศรษฐศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "ยู",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "กัน",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "ไข่มุก",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "นัท",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "กานต์",
+      "faculty": "คณะเศรษฐศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "ดิวอี้",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "พีพี",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ต้นข้าว",
+      "faculty": "คณะสหเวชศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ต้นข้าว",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ออม",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปลื้ม",
+      "faculty": "คณะสัตวแพทยศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ต้นน้ำ",
+      "faculty": "คณะศิลปกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "มินนี่",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "มาร์ค",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ข้าวปุ้น",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "น้ำมนต์",
+      "faculty": "คณะนิเทศศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ต้นกล้า",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "พลอย",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "น้ำ",
+      "faculty": "คณะสถาปัตยกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "อิงฟ้า",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ไกด์",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "บิว",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "แทน",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เพชร",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "พิม",
+      "faculty": "คณะเศรษฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ไอเดีย",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "แพร",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "บิว",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "จั๋ยจ๋าย",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "ผ้าไหม",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "พลอย",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "Wipha",
+      "faculty": "คณะนิเทศศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "เดียร์",
+      "faculty": "คณะทันตแพทยศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เต็ม",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "Top",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "แบม",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "แก้ม",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "น้ำ",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เจน",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "วา",
+      "faculty": "คณะจิตวิทยา",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "แทน",
+      "faculty": "คณะแพทยศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เฟย",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ชิว",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "พง",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "ข้าวปุ้น",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปั้น",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "แพร",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "บอส",
+      "faculty": "คณะสถาปัตยกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปุณ",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เจเจ",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "คุกกี้",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปิ่น",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ซิน",
+      "faculty": "คณะสหเวชศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เพลง",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "นช",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ไกด์",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "นานา",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "มายด์",
+      "faculty": "คณะสหเวชศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "แพร",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ข้าวปุ้น",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "มาร์ค",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "แพร",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปลื้ม",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ตูน",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เพชร",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "อิงฟ้า",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ครีม",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เดย์",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ออโต้",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เจเจ",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "พริ้ม",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปาย",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เจน",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ป้อง",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "เกม",
+      "faculty": "คณะสหเวชศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "อาตง",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "ซัน",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "เกรซ",
+      "faculty": "คณะนิเทศศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ออม",
+      "faculty": "คณะนิเทศศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "แป้ง",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "นะโม",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ไพ",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "อาเจียว",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "พิม",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ภีม",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เปเปอร์",
+      "faculty": "คณะแพทยศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "ลิยา",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "ซีเกม",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "นาย",
+      "faculty": "คณะนิเทศศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปั๊ป",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เกรซ",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "นะโม",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "อันอัน",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "พีพี",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ตรัย",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ตรัย",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ภูมิ",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "อิน",
+      "faculty": "คณะวิทยาศาสตร์การกีฬา",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ซิน",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "บอส",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เฟย",
+      "faculty": "คณะสหเวชศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "มาร์ค",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "คุกกี้",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปาล์ม",
+      "faculty": "คณะนิเทศศาสตร์",
+      "hormone": "Conan"
+    }
+  ],
+  "CID": [
+    {
+      "nickname": "เจได",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "ฟา",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "แบ่งปัน",
+      "faculty": "คณะสหเวชศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "เตลอส",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "เว็บไซด์",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "เหมยจู๊",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "มาดี",
+      "faculty": "คณะเศรษฐศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "ออเร้น",
+      "faculty": "คณะสหเวชศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "เฟรม",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "Poppy",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "เซียร์",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "มิ้ก",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "กร",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "มิกกี้",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "เน",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปุยนุ่น",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เชน",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เจล",
+      "faculty": "สำนักวิชาทรัพยากรการเกษตร",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "แคลร์",
+      "faculty": "คณะจิตวิทยา",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เนป",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "แพดเม่",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "น้ำขิง",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เอ",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ข้าวหอม",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "แบงค์",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "กฤษ",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เฮง",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เพนนี",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ชะเอม",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ปลาดาว",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "สิมิลัน",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ลูกแก้ว🐺",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "โปร",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ปราง",
+      "faculty": "คณะศิลปกรรมศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ใบหม่อน",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ธามม์",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "อิม",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "Kawhom",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "มะปราง",
+      "faculty": "คณะสหเวชศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "เมศ",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "มิ่งขวัญ",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "แวนด้า",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "อชิร์",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "กานพลู",
+      "faculty": "คณะสถาปัตยกรรมศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "ภัทร",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "โป๋ย",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "ฮานน่า",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "กายเวอร์",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "โอโซน",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "อิง",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "วินนี่",
+      "faculty": "คณะศิลปกรรมศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "บูเก้",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "ข้าวฟ่าง",
+      "faculty": "คณะศิลปกรรมศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "จูเนียร์",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "พัศร์",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "แกลม",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "ตอง",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "พร้อม",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "ซีดี",
+      "faculty": "คณะสหเวชศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "อุ๊งอิ๊ง",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "เจฟ",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "มิคกี้",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "เอวา",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "เบลเล่",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "นุ่น",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "อาร์ม",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "พรีม",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "นิวเยียร์",
+      "faculty": "คณะศิลปกรรมศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "จุ๊บ",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "สตาร์",
+      "faculty": "คณะศิลปกรรมศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "แตงกวา",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Haibara"
+    }
+  ],
+  "DSI": [
+    {
+      "nickname": "สายไหม",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "อาย",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "ดีไซน์",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "ชิริว",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "บุ๋ม",
+      "faculty": "คณะสัตวแพทยศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "จาเจิน",
+      "faculty": "คณะนิเทศศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "บาส",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "เชอแตม",
+      "faculty": "คณะศิลปกรรมศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "ยูกิ",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "เท็น",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "เจแปน",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "อุ้ม",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "ลิลลี่",
+      "faculty": "คณะจิตวิทยา",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปั้นจั่น",
+      "faculty": "คณะเศรษฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ว่าน",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ตาต้า",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "อั๋น",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "แท๊ก",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "โด",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ต้นคูณ",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "พริตตี้",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ข้าวตู",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "เคน",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ลูกปลา",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "แพนเค้ก",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "อาร์กติก",
+      "faculty": "สำนักวิชาทรัพยากรการเกษตร",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "สุล",
+      "faculty": "คณะแพทยศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "นัททิว",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "Happy",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ลูน่า",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "โมลาร์",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ไวท์",
+      "faculty": "คณะเศรษฐศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "การ์ตูน",
+      "faculty": "คณะสถาปัตยกรรมศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "ข้าวเจ้า",
+      "faculty": "คณะจิตวิทยา",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "มอส",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "เบ็น",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "น้ำอุ่น",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "น้ำอบ",
+      "faculty": "คณะทันตแพทยศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "เอ็ม",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "โอเชี่ยน",
+      "faculty": "คณะสหเวชศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "เป็นหนึ่ง",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "บี๋",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "เตอร์",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "อุ๊บอิ๊บ",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "พีเค",
+      "faculty": "คณะนิเทศศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "เบบ",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "ชามุก",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "ปิน",
+      "faculty": "คณะศิลปกรรมศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "ภู",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "วาคิม",
+      "faculty": "คณะสหเวชศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "ไดร์ฟ",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "นันท์",
+      "faculty": "คณะศิลปกรรมศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "วีซ่า",
+      "faculty": "คณะวิทยาศาสตร์การกีฬา",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "พีม",
+      "faculty": "คณะสหเวชศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "ปุณณ์",
+      "faculty": "คณะศิลปกรรมศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "เอพริ่ว",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "จ๋อมแจ๋ม",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "ดาด้า",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "ชวะ",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "อุ๋มอิ๋ม",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "เอิง",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Haibara"
+    }
+  ],
+  "FBI": [
+    {
+      "nickname": "แบท",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "ฮิโระ",
+      "faculty": "คณะแพทยศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "สี่เฮง",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "เค้ก",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "แชมป์",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "โมเดล",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "แพต",
+      "faculty": "คณะเศรษฐศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "Elisa",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "ชมพู",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "หวาย",
+      "faculty": "คณะสัตวแพทยศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "จั๊ด",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "ลิล",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "ต้นปาล์ม",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ขนุน",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ธีร์",
+      "faculty": "คณะสัตวแพทยศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "รุ่ง",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "หมอก",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เอแคร์",
+      "faculty": "คณะจิตวิทยา",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ทีเค",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "Baitan",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "จูน",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เอมมี่",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ดิจิ",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "รีน",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ซูริ",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "คาเรน",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "เจมมี",
+      "faculty": "คณะนิเทศศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "โฟกัส",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "แยม",
+      "faculty": "คณะนิเทศศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ปองแปง",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "หาดใหญ่",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "วาร์ส",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "นัน",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ปุ๋ย",
+      "faculty": "คณะสัตวแพทยศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "กัส",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "พิมแพรว",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "พัตเต้อ",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "บะจ่าง",
+      "faculty": "คณะศิลปกรรมศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "เปียร์",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "โอปอล",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "สมายด์",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "ปั่นปั๊น",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "หยุงหญิง",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "เฟิร์น",
+      "faculty": "คณะแพทยศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "ใบบัว",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "ปันปัน",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "จุง",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "ณัฏฐ์",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "Athena",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "เกล",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "แนท",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "ใจชื่น",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "เจ้าคุณ",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "แพท",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "เฟม",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "โอ๊ก",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "ชานน",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "แพรว",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "เก่ง",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "โดม",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "วี",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "ริน",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "ชุนเป",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "เต้",
+      "faculty": "คณะครุศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "จีน่า",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "โฟร์",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "ชมพู่",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "ชิน",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "พิกกี้",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Haibara"
+    }
+  ],
+  "MI6": [
+    {
+      "nickname": "เปเป้อ",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "ไอริณ",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "กุ๊ก",
+      "faculty": "คณะเภสัชศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "นิว",
+      "faculty": "คณะเศรษฐศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "โชแปง",
+      "faculty": "คณะแพทยศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "ลลิล",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "ฟรังก์ฟรังก์",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "ปอน",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "บาสสึ",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "พั้นซ์",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "ฮิโรกิ",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "น้ำหอม",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "บีเอ็ม",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Shiniji"
+    },
+    {
+      "nickname": "ไผ่",
+      "faculty": "คณะแพทยศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เติ้ล",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "คุน",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "มูฬิ่ง",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ภรีม",
+      "faculty": "คณะศิลปกรรมศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "แฟร์",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "เติมเต็ม",
+      "faculty": "คณะนิเทศศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "แอนนี่",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "วุ้นเส้น",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปาว",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "จ๋า",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Conan"
+    },
+    {
+      "nickname": "ปลาย",
+      "faculty": "คณะสหเวชศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "เจ้านาย",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "Cher",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "น้ำตาล",
+      "faculty": "คณะวิทยาศาสตร์การกีฬา",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ดิว",
+      "faculty": "คณะเศรษฐศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ฟิน",
+      "faculty": "คณะเศรษฐศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ลาเต้",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "จีน",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "เจ",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "โอ๋",
+      "faculty": "คณะสหเวชศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "มีตังค์",
+      "faculty": "คณะสัตวแพทยศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "โซ",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "นีน",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "ขวัญข้าว",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Ran"
+    },
+    {
+      "nickname": "แอนนา",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "อิมมู่",
+      "faculty": "คณะจิตวิทยา",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "อันดา",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "ไพน์",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "Born",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "ตังเม",
+      "faculty": "คณะสหเวชศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "ข้าวกล้อง",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "นต",
+      "faculty": "คณะแพทยศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "ยูนนาน",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "ซีกัต",
+      "faculty": "คณะนิติศาสตร์",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "บูม",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Kogoro"
+    },
+    {
+      "nickname": "ท๊อฟฟี่",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "อธิษฐ์",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "ดังฝัน",
+      "faculty": "คณะจิตวิทยา",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "พีค",
+      "faculty": "คณะอักษรศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "เอเป้",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "กัลย์",
+      "faculty": "คณะเศรษฐศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "พลับ",
+      "faculty": "คณะแพทยศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "เนท",
+      "faculty": "สถาบันนวัตกรรมบูรณาการ",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "ส้มโอ",
+      "faculty": "คณะแพทยศาสตร์",
+      "hormone": "Kid"
+    },
+    {
+      "nickname": "อิ๊ง",
+      "faculty": "คณะศิลปกรรมศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "บีบี",
+      "faculty": "คณะพาณิชยศาสตร์และการบัญชี",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "กีต้าร์",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "กะต๋อง",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "โบว์ลิ่ง",
+      "faculty": "คณะนิเทศศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "พินพิน",
+      "faculty": "คณะเศรษฐศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "แวน",
+      "faculty": "คณะวิศวกรรมศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "ยูโร",
+      "faculty": "คณะรัฐศาสตร์",
+      "hormone": "Haibara"
+    },
+    {
+      "nickname": "ใบพัด",
+      "faculty": "คณะวิทยาศาสตร์",
+      "hormone": "Haibara"
+    }
+  ]
+}

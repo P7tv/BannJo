@@ -23,12 +23,7 @@ const StudentWelcome = memo(function StudentWelcome({
         ยินดีต้อนรับ <span className="text-amber-300 drop-shadow-[0_2px_6px_rgba(0,0,0,1)]">{firstName} ({nickname})</span>
       </div>
 
-      {/* House Name */}
-      {group && (
-        <div className="inline-block px-5 py-1.5 rounded-full bg-gradient-to-r from-amber-500 to-yellow-400 text-slate-950 font-black text-lg sm:text-xl shadow-2xl border-2 border-amber-300 transform -rotate-1">
-          🏠 บ้าน {group}
-        </div>
-      )}
+
 
       {/* Big Bold Detective Announcement */}
       <div className="pt-2 drop-shadow-[0_4px_12px_rgba(0,0,0,1)]">
@@ -36,7 +31,7 @@ const StudentWelcome = memo(function StudentWelcome({
           นิกสืบของคุณคือ
         </p>
         <p className="text-4xl sm:text-5xl md:text-6xl font-black text-cyan-300 tracking-wider pt-1 animate-severe-hormone drop-shadow-[0_4px_16px_rgba(0,0,0,1)]">
-          {hormone}
+          {hormone} {group ? `(${group})` : ""}
         </p>
       </div>
     </div>

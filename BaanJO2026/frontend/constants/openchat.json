@@ -1,0 +1,27 @@
+{
+  "CIA": {
+    "groupName": "บ้าน CIA",
+    "qrImage": "/images/openchat/CIA.png",
+    "openChatUrl": "https://line.me/ti/g2/sample-cia"
+  },
+  "CID": {
+    "groupName": "บ้าน CID",
+    "qrImage": "/images/openchat/CID.png",
+    "openChatUrl": "https://line.me/ti/g2/sample-cid"
+  },
+  "DSI": {
+    "groupName": "บ้าน DSI",
+    "qrImage": "/images/openchat/DSI.png",
+    "openChatUrl": "https://line.me/ti/g2/sample-dsi"
+  },
+  "FBI": {
+    "groupName": "บ้าน FBI",
+    "qrImage": "/images/openchat/FBI.png",
+    "openChatUrl": "https://line.me/ti/g2/sample-fbi"
+  },
+  "MI6": {
+    "groupName": "บ้าน MI6",
+    "qrImage": "/images/openchat/MI6.png",
+    "openChatUrl": "https://line.me/ti/g2/sample-mi6"
+  }
+}

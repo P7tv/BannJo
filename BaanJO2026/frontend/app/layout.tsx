@@ -2,8 +2,8 @@ import "../styles/globals.css";
 import ClientLayout from "@/components/layout/ClientLayout";
 import { Metadata, Viewport } from "next";
 
-const title = "BaanJo 2026";
-const description = "หาคู่ที่จะไปว้าวุ่นกับคุณ - BaanJo 2026";
+const title = "BaanJo 2026 - ยอดนักสืบจิ๋ว";
+const description = "BaanJo 2026 ยอดนักสืบจิ๋ว - ค้นหานักสืบของคุณ!";
 
 export const viewport: Viewport = {
   width: "device-width",
@@ -17,14 +17,14 @@ export const metadata: Metadata = {
   openGraph: {
     title,
     description,
-    url: "https://drive.google.com/uc?export=view&id=1yMOaaegvSLCXV2NdeRE1qTTppDcWrQp2",
-    siteName: "BaanJo",
+    url: "https://bannjo.vercel.app",
+    siteName: "BaanJo 2026",
     images: [
       {
-        url: "https://drive.google.com/uc?export=view&id=1yMOaaegvSLCXV2NdeRE1qTTppDcWrQp2",
+        url: "https://bannjo.vercel.app/images/%E0%B8%9B%E0%B8%81%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9B.webp",
         width: 1920,
         height: 1200,
-        alt: "BaanJo Preview Image",
+        alt: "BaanJo 2026 ยอดนักสืบจิ๋ว",
       },
     ],
     type: "website",
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title,
     description,
-    images: ["/images/ปกเว็ป.webp"],
+    images: ["https://bannjo.vercel.app/images/%E0%B8%9B%E0%B8%81%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9B.webp"],
   },
 };
 

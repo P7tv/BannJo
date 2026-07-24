@@ -21,7 +21,7 @@ const StudentWelcome = memo(function StudentWelcome({
         ยินดีต้อนรับ <span className="font-extrabold text-amber-300 drop-shadow-[0_2px_4px_rgba(0,0,0,1)]">{firstName} ({nickname})</span>
       </p>
       <p className="text-lg sm:text-xl animate-fade-in animate-delay-200 font-semibold text-slate-100 drop-shadow-[0_2px_4px_rgba(0,0,0,0.9)]">
-        ฮอร์โมนของคุณคือ <span className="font-extrabold text-cyan-300 animate-severe-hormone text-xl sm:text-2xl drop-shadow-[0_2px_6px_rgba(0,0,0,1)]">{hormone}</span>
+        นักสืบของคุณคือ <span className="font-extrabold text-cyan-300 animate-severe-hormone text-xl sm:text-2xl drop-shadow-[0_2px_6px_rgba(0,0,0,1)]">{hormone}</span>
       </p>
     </div>
   );

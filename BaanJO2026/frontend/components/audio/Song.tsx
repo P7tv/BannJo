@@ -10,43 +10,40 @@ export const Song = () => {
   useEffect(() => {
     if (interactionTriggered) return;
 
-    const handleUserInteraction = async (event: Event) => {
+    const handleUserInteraction = (event: Event) => {
       if (interactionTriggered || !audioRef.current) return;
 
-      try {
-        const audio = audioRef.current;
-        audio.volume = 0;
-        
-        // Attempt play safely
-        const playPromise = audio.play();
-        if (playPromise !== undefined) {
-          await playPromise;
-        }
+      const audio = audioRef.current;
+      audio.volume = 0;
+      
+      // Attempt play safely using promise chain to catch unhandled rejections
+      audio.play()
+        .then(() => {
+          setInteractionTriggered(true);
 
-        setInteractionTriggered(true);
+          // Fast fade-in with lower comfortable volume
+          const targetVolume = 0.3; // Lower volume (30%)
+          const duration = 500; // Fast fade-in (0.5s)
+          const steps = 20;
+          const increment = targetVolume / steps;
+          const interval = duration / steps;
 
-        // Fast fade-in with lower comfortable volume
-        const targetVolume = 0.3; // Lower volume (30%)
-        const duration = 500; // Fast fade-in (0.5s)
-        const steps = 20;
-        const increment = targetVolume / steps;
-        const interval = duration / steps;
+          let currentStep = 0;
+          const fade = setInterval(() => {
+            if (audio.paused || currentStep >= steps) {
+              clearInterval(fade);
+              audio.volume = targetVolume;
+            } else {
+              audio.volume = Math.min(increment * currentStep, targetVolume);
+              currentStep++;
+            }
+          }, interval);
 
-        let currentStep = 0;
-        const fade = setInterval(() => {
-          if (audio.paused || currentStep >= steps) {
-            clearInterval(fade);
-            audio.volume = targetVolume;
-          } else {
-            audio.volume = Math.min(increment * currentStep, targetVolume);
-            currentStep++;
-          }
-        }, interval);
-
-        removeListeners(); // ✅ remove listeners after success
-      } catch (err) {
-        // Silently ignore Autoplay policy restrictions until user performs next click/tap
-      }
+          removeListeners(); // ✅ remove listeners after success
+        })
+        .catch(() => {
+          // Silently handle autoplay restriction until user's next gesture
+        });
     };
 
     const removeListeners = () => {

@@ -50,7 +50,7 @@ export default function ClientHomePage() {
       {/* Validation message with improved animations */}
       {isValid ? (
         <Image
-          src="/images/loading-text.png"
+          src="/images/loading-text.webp"
           alt="main"
           fill
           style={{ objectFit: "contain" }}

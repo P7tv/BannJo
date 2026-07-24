@@ -7,7 +7,7 @@ export default function Home() {
     <div className="relative w-full h-screen overflow-hidden bg-black flex items-center justify-center">
       {/* Base Background */}
       <Image
-        src="/images/2026/separated/Background.png"
+        src="/images/2026/separated/Background.webp"
         alt="Background"
         fill
         style={{ objectFit: "contain" }}
@@ -17,7 +17,7 @@ export default function Home() {
 
       {/* Layer 2: Tape & Background effects */}
       <Image
-        src="/images/2026/separated/2.png"
+        src="/images/2026/separated/2.webp"
         alt="Background Effects"
         fill
         style={{ objectFit: "contain" }}
@@ -27,7 +27,7 @@ export default function Home() {
 
       {/* Layer 1: Header Logo ("Baan JO ยอดนัก...") - Drop Slam Effect */}
       <Image
-        src="/images/2026/separated/1.png"
+        src="/images/2026/separated/1.webp"
         alt="Header Title"
         fill
         style={{ objectFit: "contain" }}
@@ -37,7 +37,7 @@ export default function Home() {
 
       {/* Layer 4: Lower Coffee Cup & Paper Frame - Synchronized Drop Bounce Effect */}
       <Image
-        src="/images/2026/separated/4.png"
+        src="/images/2026/separated/4.webp"
         alt="Input Frame"
         fill
         style={{ objectFit: "contain" }}

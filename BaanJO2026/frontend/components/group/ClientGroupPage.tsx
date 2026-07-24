@@ -48,26 +48,23 @@ export default function ClientGroupPage() {
 
   return (
     <div
-      className={`relative min-h-screen w-full flex flex-col items-center overflow-y-auto bg-black transition-all duration-700 ease-out ${
+      className={`relative min-h-screen w-full flex flex-col items-center bg-black transition-all duration-700 ease-out ${
         isExiting ? "animate-page-exit" : "animate-page-enter"
       }`}
     >
-      {/* Full Group Reveal Poster as Main Background for First View */}
-      <div className="absolute top-0 left-0 w-full h-[100dvh] z-0 pointer-events-none">
+      {/* Container for Poster Image + Centered Welcome Overlay */}
+      <div className="relative w-full max-w-lg mx-auto shadow-2xl aspect-[1080/1920] bg-zinc-900 flex-shrink-0">
         <Image
           src={imagePath}
           alt={`${hormone} ${group}`}
           fill
-          style={{ objectFit: "contain", objectPosition: "top" }}
-          className="transition-smooth animate-severe-zoom-in"
+          className="object-cover transition-smooth animate-severe-zoom-in pointer-events-none"
           priority
         />
-      </div>
-
-      {/* SECTION 1: Centered Welcome Greeting over Poster (First View 100vh) */}
-      <div className="relative z-10 w-full min-h-screen h-[100dvh] flex flex-col items-center justify-between px-4 pt-16 pb-8">
-        <div className="flex-1 flex flex-col items-center justify-center text-center w-full max-w-md sm:max-w-lg">
-          <div className="animate-slide-up animate-delay-300">
+        
+        {/* Absolute Overlay for Text - Centered over the Poster */}
+        <div className="absolute inset-0 flex flex-col items-center justify-center p-4">
+          <div className="w-full max-w-sm sm:max-w-md">
             <StudentWelcome
               firstName={firstName}
               nickname={nickname}
@@ -77,20 +74,20 @@ export default function ClientGroupPage() {
           </div>
         </div>
 
-        {/* Scroll Down Indicator at bottom of first view */}
-        <div className="animate-bounce text-amber-300 text-xs sm:text-sm font-bold flex flex-col items-center space-y-1 drop-shadow-[0_2px_6px_rgba(0,0,0,1)] pb-4">
+        {/* Scroll Down Indicator at the bottom of the Poster */}
+        <div className="absolute bottom-6 left-0 w-full flex flex-col items-center space-y-1 animate-bounce text-amber-300 text-xs sm:text-sm font-bold drop-shadow-[0_2px_6px_rgba(0,0,0,1)]">
           <span>เลื่อนลงเพื่อสแกน QR Code</span>
           <span className="text-xl">👇</span>
         </div>
       </div>
 
-      {/* SECTION 2: QR Code & Navigation Button placed strictly below poster view */}
-      <div className="relative z-10 w-full flex flex-col items-center px-4 py-16 space-y-8 bg-black">
+      {/* SECTION 2: QR Code & Navigation Button - Placed exactly below the poster! */}
+      <div className="w-full flex flex-col items-center px-4 pt-10 pb-20 bg-black space-y-8 z-10">
         <div className="animate-slide-up animate-delay-400 w-full max-w-xs sm:max-w-sm">
           <HouseOpenChatQR group={group} />
         </div>
 
-        <div className="animate-slide-up animate-delay-500 w-full max-w-xs pt-2">
+        <div className="animate-slide-up animate-delay-500 w-full max-w-xs pt-4">
           <NavigationButton 
             onClick={handleBackToHome} 
             isExiting={isExiting}

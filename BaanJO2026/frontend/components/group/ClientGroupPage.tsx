@@ -43,8 +43,8 @@ export default function ClientGroupPage() {
 
   const { group, hormone, firstName, nickname } = student;
 
-  // Construct the 2026 image path: /images/[hormone]/[group].png
-  const imagePath = `/images/${hormone}/${group}.png`;
+  // Construct the 2026 image path: /images/[hormone]/[group].webp
+  const imagePath = `/images/${hormone}/${group}.webp`;
 
   return (
     <div
@@ -62,10 +62,10 @@ export default function ClientGroupPage() {
         priority
       />
 
-      {/* Content Container overlaid higher up */}
-      <div className="relative z-10 w-full flex flex-col items-center px-4 pt-[45vh] sm:pt-[48vh] pb-10 space-y-4">
+      {/* Content Container overlaid seamlessly across Mobile, iPad/Tablet, and Desktop */}
+      <div className="relative z-10 w-full max-w-md sm:max-w-lg md:max-w-xl flex flex-col items-center px-4 pt-[45vh] sm:pt-[48vh] md:pt-[52vh] lg:pt-[56vh] pb-12 space-y-4">
         {/* Student Welcome */}
-        <div className="animate-slide-up animate-delay-300 text-center">
+        <div className="animate-slide-up animate-delay-300 text-center w-full">
           <StudentWelcome
             firstName={firstName}
             nickname={nickname}
@@ -74,7 +74,7 @@ export default function ClientGroupPage() {
         </div>
 
         {/* LINE OpenChat QR Code */}
-        <div className="animate-slide-up animate-delay-400 w-full max-w-sm">
+        <div className="animate-slide-up animate-delay-400 w-full max-w-xs sm:max-w-sm">
           <HouseOpenChatQR group={group} />
         </div>
 
@@ -83,7 +83,7 @@ export default function ClientGroupPage() {
           <NavigationButton 
             onClick={handleBackToHome} 
             isExiting={isExiting}
-            className="w-full py-3 px-8 text-base font-bold transform transition-all duration-300 hover:scale-105 active:scale-95"
+            className="w-full py-3.5 px-8 sm:py-4 sm:px-10 text-base sm:text-lg font-bold transform transition-all duration-300 hover:scale-105 active:scale-95 shadow-xl"
           >
             {"← หน้าแรก"}
           </NavigationButton>

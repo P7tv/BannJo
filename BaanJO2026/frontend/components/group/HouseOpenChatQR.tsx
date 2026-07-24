@@ -38,7 +38,13 @@ export default function HouseOpenChatQR({ group, className = "" }: HouseOpenChat
         </div>
 
         {/* QR Code Frame */}
-        <div className="relative w-44 h-44 mx-auto mb-3 bg-white p-2 shadow-inner border border-stone-300 flex items-center justify-center">
+        <a 
+          href={info.openChatUrl} 
+          target="_blank" 
+          rel="noopener noreferrer"
+          className="relative w-44 h-44 mx-auto mb-3 bg-white p-2 shadow-inner border border-stone-300 flex items-center justify-center hover:opacity-90 active:scale-95 transition-all cursor-pointer"
+          title="กดเพื่อเปิดลิงก์ LINE OpenChat"
+        >
           {!imgError ? (
             <Image
               src={info.qrImage}
@@ -56,7 +62,7 @@ export default function HouseOpenChatQR({ group, className = "" }: HouseOpenChat
               <p className="font-semibold text-red-600">บ้าน {group}</p>
             </div>
           )}
-        </div>
+        </a>
 
         {/* Button inside or below polaroid */}
         {info.openChatUrl && info.openChatUrl !== "#" && (

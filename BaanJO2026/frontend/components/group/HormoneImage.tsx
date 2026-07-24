@@ -14,7 +14,7 @@ const HormoneImage = memo(function HormoneImage({
   group,
   className = "" 
 }: HormoneImageProps) {
-  const initialPath = imagePath || `/images/${hormone}/${group}.png`;
+  const initialPath = imagePath || `/images/${hormone}/${group}.webp`;
   const [currentSrc, setCurrentSrc] = useState(initialPath);
 
   useEffect(() => {
@@ -24,12 +24,12 @@ const HormoneImage = memo(function HormoneImage({
   }, [imagePath]);
 
   const handleImageError = () => {
-    if (currentSrc === `/images/${hormone}/${group}.png`) {
-      setCurrentSrc(`/images/${group}/${hormone}.png`);
-    } else if (currentSrc === `/images/${group}/${hormone}.png`) {
-      setCurrentSrc(`/images/${group}/${hormone}.jpg`);
-    } else if (currentSrc === `/images/${group}/${hormone}.jpg`) {
-      setCurrentSrc(`/images/${hormone?.toLowerCase()}/${group?.toLowerCase()}.png`);
+    if (currentSrc === `/images/${hormone}/${group}.webp`) {
+      setCurrentSrc(`/images/${group}/${hormone}.webp`);
+    } else if (currentSrc === `/images/${group}/${hormone}.webp`) {
+      setCurrentSrc(`/images/${hormone?.toLowerCase()}/${group?.toLowerCase()}.webp`);
+    } else if (currentSrc.endsWith('.webp')) {
+      setCurrentSrc(currentSrc.replace('.webp', '.png'));
     }
   };
 

@@ -47,6 +47,9 @@ export default function RootLayout({
   return (
     <html lang="th" suppressHydrationWarning>
       <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
+        <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@600;700&family=Kanit:wght@600;700&family=Mitr:wght@500;600;700&family=Prompt:wght@600;700&display=swap" rel="stylesheet" />
         <link rel="preload" href="/fonts/can_Rukdeaw01.ttf" as="font" type="font/ttf" crossOrigin="" />
         <link rel="preload" href="/images/separated/Background.webp" as="image" />
       </head>
